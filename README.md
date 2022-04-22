@@ -12,6 +12,8 @@
   I want to be continue learning, improving my skills and my code of course to be part of technological development.
   
   Thanks you for reading. 
+  
+  - :computer: web page: https://gonzaloespindola.github.io/Personal-portfolio/
 
 **Skills:**
 
