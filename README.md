@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I´m Gonzalo Espindola 👋
 
-<!--
-**GonzaloEspindola/GonzaloEspindola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Contact:**
 
-Here are some ideas to get you started:
+- :email: Email: espindolamgonzalo@gmail.com
+- :earth_americas: Linkedin: https://www.linkedin.com/in/gonzalo-espindola/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me:**
+
+  I'm a Frontend web developer. Right now I'm searching my first job at the IT world. 
+  
+  I want to be continue learning, improving my skills and my code of course to be part of technological development.
+  
+  Thanks you for reading. 
+
+**Skills:**
+
+- :ballot_box_with_check: HTML
+- :ballot_box_with_check: CSS
+- :ballot_box_with_check: Javascript
+- :mortar_board: learning react.js
+
+- :hammer: Git
+- :hammer:MySQL
+
