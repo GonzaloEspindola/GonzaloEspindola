@@ -13,7 +13,7 @@
   
   Thanks you for reading. 
   
-  - :computer: web page: https://gonzaloespindola.github.io/Personal-portfolio/
+  - :computer: Portfolio: https://gonzaloespindola.github.io/Personal-portfolio/
 
 **Skills:**
 
