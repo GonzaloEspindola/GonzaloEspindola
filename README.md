@@ -13,14 +13,14 @@
   
   Thanks you for reading. 
   
-  - :computer: Portfolio: https://gonzaloespindola.github.io/Personal-portfolio/
+  - :computer: Portfolio: https://gonzaloespindola.github.io/portfolio/
 
 **Skills:**
 
 - :ballot_box_with_check: HTML
 - :ballot_box_with_check: CSS
 - :ballot_box_with_check: Javascript
-- :mortar_board: learning react.js
+- :ballot_box_with_check: React
 
 - :hammer: Git
 - :hammer:MySQL
