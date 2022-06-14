@@ -7,7 +7,7 @@
 
 **About me:**
 
-  I'm a Frontend web developer. Right now I'm searching my first job at the IT world. 
+  I'm a full stack web developer. Right now I'm searching my first job at the IT world. 
   
   I want to be continue learning, improving my skills and my code of course to be part of technological development.
   
@@ -21,6 +21,7 @@
 - :ballot_box_with_check: CSS
 - :ballot_box_with_check: Javascript
 - :ballot_box_with_check: React
+- :ballot_box_with_check: Node
 
 - :hammer: Git
 - :hammer:MySQL
