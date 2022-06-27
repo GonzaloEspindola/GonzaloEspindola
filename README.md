@@ -1,28 +1,9 @@
-### Hi there, I´m Gonzalo Espindola 👋
+# :rocket: Hola, mi nombre es Gonzalo Espindola
 
-**Contact:**
+### Soy un entusiasta de la tecnologia, mas en especifico de desarrollo web. Actualmente estoy comenzando la carrera de 'Ingenieria Informatica' en la Universidad de Buenos Aires ademas de estudiar de forma autonoma desarrollo web tanto frontend como backend (actualmente enamorado de JavaScript ♥)!
 
-- :email: Email: espindolamgonzalo@gmail.com
-- :earth_americas: Linkedin: https://www.linkedin.com/in/gonzalo-espindola/
+## 💻 Mi actualidad: ##
 
-**About me:**
+### Actualmente estoy estudiando y mejorando mis habilidades en torno a JavaScript. Tanto en ReactJs como en NodeJs, ademas de estar estudiando base de datos mas especifico base de datos relacionales con el motor Postgresql, aunque en mi tiempo libre me dedico a seguir aprendiendo sobre las bases como POO, paradigmas, etc.
 
-  I'm a full stack web developer. Right now I'm searching my first job at the IT world. 
-  
-  I want to be continue learning, improving my skills and my code of course to be part of technological development.
-  
-  Thanks you for reading. 
-  
-  - :computer: Portfolio: https://gonzaloespindola.github.io/portfolio/
-
-**Skills:**
-
-- :ballot_box_with_check: HTML
-- :ballot_box_with_check: CSS
-- :ballot_box_with_check: Javascript
-- :ballot_box_with_check: React
-- :ballot_box_with_check: Node
-
-- :hammer: Git
-- :hammer:MySQL
-
+### Puedes contactarme a travez de mi email: espindolamgonzalo@gmail.com o mi [Linkedin](https://www.linkedin.com/in/gonzalo-espindola/)
