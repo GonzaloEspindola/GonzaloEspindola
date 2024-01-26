@@ -18,4 +18,4 @@
 
 <br />
 <br />
-Puedes contactarme a travez de mi email: espindolamgonzalo@gmail.com o mi [Linkedin](https://www.linkedin.com/in/gonzalo-espindola/)
+Puedes contactarme a travez de mi email: espindolamgonzalo@gmail.com o mi Linkedin https://www.linkedin.com/in/gonzalo-espindola/
